@@ -1,8 +1,8 @@
 # Simulation
 The Robomaster Simulation by Wai Yan.
 Known bugs: 
-1) The Hero has no ammo.
-2) The game has 0 colour.
+2) You have a small chance of falling off the map (with known reason, fixing it).
 3) The game has no end.
-4) You can get stuck on the edge of the bridge.
+4) The base healthbar might suddenly explode.
+5) There is no 1).
 And much more.
