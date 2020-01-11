@@ -5,6 +5,6 @@ Things that will be added later on
 1) The missiles (No it's not darts they're missiles)
 2) All the different cooldown-buff areas around the map
 3) All the different types of robots
-4) Colouring?
+4) End-game screen instead of just a Game Over.
 
 And much more.
