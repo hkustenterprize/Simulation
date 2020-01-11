@@ -1,9 +1,10 @@
-# Simulation
+# Simulation 2020!
 The Robomaster Simulation by Wai Yan.
-Known bugs: 
-2) You have a small chance of falling off the map (with known reason, fixing it).
-3) The game has no end.
-4) The base healthbar might suddenly explode.
-5) Everyone gets the message for large bullets.
+Version 0.1
+Things that will be added later on
+1) The missiles (No it's not darts they're missiles)
+2) All the different cooldown-buff areas around the map
+3) All the different types of robots
+4) End-game screen instead of just a Game Over.
 
 And much more.
