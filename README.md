@@ -1,7 +1,7 @@
 # Simulation 2020 (Version 0.9)!
 The Robomaster Simulation by Wai Yan.
-Version 0.9
-Known Bugs
+Version 0.9.
+Known Bugs:
 1) Missiles bounce after colliding
 1.1) The Missile doesn't do damage yet
 2) The drone has grossly unrealisitc physics
