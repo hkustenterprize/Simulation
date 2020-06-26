@@ -6,10 +6,11 @@ On page load, simply click on "Clone or Download", Then "Download ZIP". Find the
 Known Bugs:
 1) The drone has grossly unrealisitc physics
 2) Bullet paths are way too accurate
-3) Cooldowns only work for Infantry; all other robots have the same configuration which I still need to code.
+3) Cooldowns areas aren't cooling down as intended.
 4) (I'm pretty sure) player damage is hard to tell.<br><br>
 Things that will be added later on
-1) All the different cooldown-buff areas around the map
+1) A timer so it's actually 7 minutes and not just indefinitely stuck in game.
 2) End-game screen instead of just a Game Over.
+3) More options for the spectator
 
 And much more.
