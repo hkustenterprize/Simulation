@@ -1,4 +1,4 @@
-# Simulation 2021 (Version 1.1)!
+# Simulation 2021 (Press the link below, not the download in the top left!)
 The Robomaster Simulation by Wai Yan.
 Version 1.1.<br>
 
