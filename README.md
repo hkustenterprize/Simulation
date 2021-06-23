@@ -2,7 +2,7 @@
 The Robomaster Simulation by Wai Yan.
 Version 1.1.<br>
 
-https://hkustconnect-my.sharepoint.com/:u:/g/personal/wykwokaf_connect_ust_hk/Ee1YIdThindGobW4A4YFz4QBQ1I2V0X7OuOamHWWPF1JXw?e=dbsJ7F<br>
+https://hkustconnect-my.sharepoint.com/:u:/g/personal/wykwokaf_connect_ust_hk/Ee1YIdThindGobW4A4YFz4QBQ1I2V0X7OuOamHWWPF1JXw?e=ZVewWD<br>
 Controls: <br>
 - WASD (Shift): Move (Sprint)
 - O: +300 bullets (near the area)
@@ -14,10 +14,12 @@ Controls: <br>
 Patch Notes:
 - Auto infantry up and running, has 200 health and shoots on sight. Try kill it!
 - The slopes are now interactable; you can't ram it, but you can shoot it to move, and the engineer can pick it up.
+- You now cannot shoot if you're overheating.
+- The minerals light up before dropping.
 
 Pending functions:
 - Cheats turning on and off
-- A better spectator
+- Turning auto infantry on/off
 
 <br><br><br><br><br><br><br><br>
 
