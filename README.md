@@ -1,8 +1,7 @@
 # Simulation 2021 (Press the link below, not the download in the top left!)
 The Robomaster Simulation by Wai Yan.
 Version 1.1.<br>
-
-https://hkustconnect-my.sharepoint.com/:u:/g/personal/wykwokaf_connect_ust_hk/Ee1YIdThindGobW4A4YFz4QBQ1I2V0X7OuOamHWWPF1JXw?e=ZVewWD<br>
+https://hkustconnect-my.sharepoint.com/:u:/g/personal/wykwokaf_connect_ust_hk/Ee1YIdThindGobW4A4YFz4QBQ1I2V0X7OuOamHWWPF1JXw?e=r8QrCo<br>
 Controls: <br>
 - WASD (Shift): Move (Sprint)
 - O: +300 bullets (near the area)
@@ -11,15 +10,20 @@ Controls: <br>
 - (Engineer) U: Pick up Mineral
 - (Drone) QE: Up/Down
 
-Patch Notes:
-- Auto infantry up and running, has 200 health and shoots on sight. Try kill it!
-- The slopes are now interactable; you can't ram it, but you can shoot it to move, and the engineer can pick it up.
-- You now cannot shoot if you're overheating.
-- The minerals light up before dropping.
-
+A couple of things have been fixed (most likely, test them out):
+- Players can now move on resurrection
+- The auto infantry and the sentry have slower attack rates now
+- Players will now always spawn on the same side unless you pick "Enemy"
+- The game window can now be size adjusted
 Pending functions:
-- Cheats turning on and off
-- Turning auto infantry on/off
+- Engineer dragging players
+- Robots can't climb the slope block
+- Button to remove the auto infantry
+- Button to make robots "spin in place" (take less damage)
+- Make economy and experience visible to the player
+Known Bugs: 
+- The missile and drone now both spawn on the ground.
+- Robots can sometimes climb railings
 
 <br><br><br><br><br><br><br><br>
 
