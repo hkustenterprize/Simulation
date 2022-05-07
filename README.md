@@ -1,4 +1,7 @@
 # Simulation 2021 (Press the link below, not the download in the top left!)
+
+#This version is outdated. Please contact respective team members for updated versions.
+
 The Robomaster Simulation by Wai Yan.
 Version 1.1.<br>
 https://hkustconnect-my.sharepoint.com/:u:/g/personal/wykwokaf_connect_ust_hk/Ee1YIdThindGobW4A4YFz4QBQ1I2V0X7OuOamHWWPF1JXw?e=r8QrCo<br>
